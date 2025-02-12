@@ -1,6 +1,8 @@
 # univariateML
 Maximum likelihood estimation of univariate densities Use univariateML With (In) R Software
 
+https://www.youtube.com/watch?v=sFxsT_uhcjw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
